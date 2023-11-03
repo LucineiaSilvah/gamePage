@@ -2,6 +2,7 @@
 	background: #1F1F1F;
 	color:#E4CD29;
 	height: 100vh;
+	overflow: hidden;
 }
 #nave{
 	background: #E4CD29;
