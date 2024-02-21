@@ -1,10 +1,32 @@
+header{
+	width: 100%;
+}
 #home {
 	width: 100%;
-	background: #1F1F1F;
+	background: #1F1F1F url('/img/sc.png')no-repeat right ;
 	color:#E4CD29;
 	height: 100vh;
 	overflow: hidden;
 }
 #nave{
 	background: #E4CD29;
+}
+h2{
+	color:#E4CD29;
+	text-shadow: -1px 2px 4px black;
+}
+.caixa{
+	padding: 60px 0 ;
+	
+	border-bottom: 1px solid #e5e5e5;
+}
+img{
+	width: 80%;
+}
+svg{
+	width: 100px;
+
+}
+footer p a{
+	margin: 5px 15px;
 }
